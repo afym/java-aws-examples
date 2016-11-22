@@ -1,6 +1,6 @@
 # amazon-java-web-services
 
-create a properties files
+create a properties files : resources/config.properties 
 
 using the following keys
 
